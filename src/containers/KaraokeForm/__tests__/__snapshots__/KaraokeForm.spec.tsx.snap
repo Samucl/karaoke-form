@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KaraokeForm Component matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-khjJXk dHyDhO"
+  >
+    <h4>
+      Ilmoittautumislomake
+    </h4>
+    <form
+      class="sc-dJGMql cvqFQP"
+    >
+      <div
+        class="sc-blmEgr dehJPy"
+      >
+        <span
+          class="sc-hLQSwg ZxWvM"
+        >
+          <strong>
+            Nimi tai nimimerkki*
+          </strong>
+        </span>
+        <input
+          class="sc-ifyrAs ckspDp"
+          name="name"
+          type="text"
+        />
+      </div>
+      <div
+        class="sc-gLLuof hKelyI"
+      >
+        <span
+          class="sc-hLQSwg ZxWvM"
+        >
+          <strong>
+            Kasvokuva
+          </strong>
+        </span>
+        <div
+          class="sc-iBdnpw iqTFZJ"
+        >
+          <input
+            accept="image/*"
+            class="sc-fsYfdN bPgnkf"
+            id="file"
+            name="file"
+            type="file"
+          />
+          <label
+            class="sc-csKJxZ jKqWbh"
+            for="file"
+          >
+            + Tuo kasvokuva
+          </label>
+        </div>
+      </div>
+      <div
+        class="sc-eDLKkx rrIuQ"
+      >
+        <span
+          class="sc-hLQSwg ZxWvM"
+        >
+          <strong>
+            Biisi*
+          </strong>
+        </span>
+        <select
+          class="sc-jTQCzO jjzoCu"
+          name="song"
+        >
+          <option
+            disabled=""
+            hidden=""
+            value=""
+          >
+            Valitse alta
+          </option>
+          <option
+            value="0"
+          >
+            Whitney Houston - I Will Always Love You
+          </option>
+          <option
+            value="1"
+          >
+            Journey - Don't Stop Believin'
+          </option>
+          <option
+            value="2"
+          >
+            Queen - Bohemian Rhapsody
+          </option>
+          <option
+            value="3"
+          >
+            Bon Jovi - Livin' on a Prayer
+          </option>
+          <option
+            value="4"
+          >
+            ABBA - Dancing Queen
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-brSamD cbnvnW"
+      >
+        <span
+          class="sc-hLQSwg ZxWvM"
+        >
+          <strong>
+            Sävellaji*
+          </strong>
+        </span>
+        <div
+          class="sc-ktwOfi kkrBVD"
+        >
+          <label
+            class="sc-fmKFGs gFOmcv"
+          >
+            <input
+              class="sc-hABBmJ bGXFsK"
+              name="key"
+              type="radio"
+              value="-2"
+            />
+            <span
+              class="sc-fHejqy bsvagH"
+            >
+              -2
+            </span>
+          </label>
+          <label
+            class="sc-fmKFGs gFOmcv"
+          >
+            <input
+              class="sc-hABBmJ bGXFsK"
+              name="key"
+              type="radio"
+              value="-1"
+            />
+            <span
+              class="sc-fHejqy bsvagH"
+            >
+              -1
+            </span>
+          </label>
+          <label
+            class="sc-fmKFGs gFOmcv"
+          >
+            <input
+              class="sc-hABBmJ bGXFsK"
+              name="key"
+              type="radio"
+              value="0"
+            />
+            <span
+              class="sc-fHejqy bsvagH"
+            >
+              0
+            </span>
+          </label>
+          <label
+            class="sc-fmKFGs gFOmcv"
+          >
+            <input
+              class="sc-hABBmJ bGXFsK"
+              name="key"
+              type="radio"
+              value="1"
+            />
+            <span
+              class="sc-fHejqy bsvagH"
+            >
+              1
+            </span>
+          </label>
+          <label
+            class="sc-fmKFGs gFOmcv"
+          >
+            <input
+              class="sc-hABBmJ bGXFsK"
+              name="key"
+              type="radio"
+              value="2"
+            />
+            <span
+              class="sc-fHejqy bsvagH"
+            >
+              2
+            </span>
+          </label>
+        </div>
+      </div>
+      <div
+        class="sc-beySPh jZXJSS"
+      >
+        <input
+          class="sc-guDLey beTZKc"
+          name="box"
+          type="checkbox"
+        />
+        <span
+          class="sc-dmyCSP bYODjd"
+        >
+          Sallin tietojeni tallennuksen karaokejärjestelmään
+        </span>
+      </div>
+      <button
+        class="sc-hIPBNq dkghb"
+        type="submit"
+      >
+        Ilmoittaudu
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
