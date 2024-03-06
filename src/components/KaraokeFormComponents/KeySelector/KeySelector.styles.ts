@@ -21,6 +21,9 @@ export const CustomRadioWrapper = styled.div`
 
 export const StyledInput = styled.input`
     appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    width: 0;
     margin: 0;
     &:checked + span {
         background-color: #128559;
